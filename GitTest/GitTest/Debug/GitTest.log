@@ -1,4 +1,2 @@
-﻿  pch.cpp
-  GitTest.cpp
-  LINK : 没有找到 C:\Users\guoxiaofeng\Desktop\test5\GitTest\Debug\GitTest.exe 或上一个增量链接没有生成它；正在执行完全链接
+﻿  GitTest.cpp
   GitTest.vcxproj -> C:\Users\guoxiaofeng\Desktop\test5\GitTest\Debug\GitTest.exe
