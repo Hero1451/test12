@@ -9,8 +9,7 @@ int main()
 	std::cout << "GitTest!\n"<<std::endl;
 	std::cout << "GithhhhTest!\n" << std::endl;
 	std::cout << "Hello World1122211!\n" << std::endl;
-	std::cout << "123456789!\n" << std::endl;
-    std::cout << "Hello World!\n"<<std::endl; 
+
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
